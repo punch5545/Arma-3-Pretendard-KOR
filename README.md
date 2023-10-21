@@ -16,3 +16,7 @@
 ## Contact
 * Github: [punch5545](https://github.com/punch5545/Arma-3-Pretendard-KOR)
 * Steam 창작마당: [A3 Pretendard KOR](https://steamcommunity.com/sharedfiles/filedetails/?id=2880455662)
+
+## Thanks for
+* [Pretendard](https://cactus.tistory.com/306)
+* [Font Forge](https://github.com/fontforge/fontforge)
