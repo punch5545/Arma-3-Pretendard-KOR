@@ -1,0 +1,12 @@
+name = "Pretendard KOR";
+picture = "Pretendard-KOR-logo.paa";
+actionName = "GitHub";
+action = "https://github.com/punch5545/Arma-3-Pretendard-KOR.git";
+description = "Arma3 Pretendard KOR";
+logo = "Pretendard-KOR-logo.paa";
+logoOver = "Pretendard-KOR-logo.paa";
+tooltip = "Pretendard";
+tooltipOwned = "Pretendard Owned";
+overview = "Pretendard Korean font for Arma 3";
+author = "Mouser";
+overviewPicture = "Pretendard-KOR-logo.paa";
